@@ -8,8 +8,8 @@ arcface:
   vector_size: 256
 
 data:
-  dataset_dir: '/kaggle/working/dataset/train'
-  valset_dir: /kaggle/working/dataset/val'
+  dataset_dir: '/kaggle/working/faceshifter/data/train'
+  valset_dir: /kaggle/working/faceshifter/data/val'
 
 model:
   learning_rate_E_G: 4e-4
